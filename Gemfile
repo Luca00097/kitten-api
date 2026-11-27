@@ -65,4 +65,4 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "httparty", "~> 0.24.3"
+gem "httparty", "~> 0.25.1"
